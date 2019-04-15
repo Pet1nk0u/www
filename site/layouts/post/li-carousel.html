@@ -1,0 +1,16 @@
+<a href="{{ .Permalink }}" class="no-underline bg-coe br1 mb2 db raise">
+
+<div class="flex-m mhn3-m mb4">
+
+  <div class="w-two-thirds-m">
+    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="db mb2">
+  </div>
+
+  <div class="ph3-m w-third-m">
+    <h3 class="f3 b white lh-title mb1">{{ .Title }}</h3>
+    <p class="grey-1 lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    <p class="mb0 off-white">{{ .Description }}</p>
+  </div>
+
+</div>
+</a>
