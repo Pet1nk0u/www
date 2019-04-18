@@ -1,5 +1,5 @@
 ---
-title: PACE urges international action against money-laundering "laundromats"
+title: COUR urges international action against money-laundering "laundromats"
 date: 2019-04-15T13:37:33.546Z
 description: PARLIAMENTARY ASSEMBLY SESSION STRASBOURG 11 APRIL 2019
 image: /img/pace.jpg
